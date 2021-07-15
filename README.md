@@ -8,6 +8,6 @@ Welcome to my Github Profile!👋
 - Html/CSS/Bootstrap/Javascript
 - JAVA SE
 - Wordpress Development/Elementor
-- UI with Adobe XD
+- UX Designing with Adobe XD
 
 If you're interested to know what's new I can bring to the table, feel free to reach me via a message on linkedin or on my mail id : astha.mujmer333@gmail.com
