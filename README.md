@@ -5,7 +5,7 @@ Welcome to my Github Profile!👋
 - 🌱 I’m currently learning React JS.
 - 🌱 I’m looking to collaborate on some good web development projects.
 - 🌱 Technical/Designing Skills :
-- Html/CSS/Bootstrap/Javascript
+- Html/CSS
 - JAVA SE
 - Wordpress Development/Elementor
 - UX Designing with Adobe XD
