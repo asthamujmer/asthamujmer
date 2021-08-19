@@ -7,6 +7,7 @@ Welcome to my Github Profile!👋
 - 🌱 Technical/Designing Skills :
 - Html/CSS
 - JAVA SE
+- SQL
 - Wordpress Development/Elementor
 - UX Designing with Adobe XD
 
