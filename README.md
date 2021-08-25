@@ -11,4 +11,4 @@ Welcome to my Github Profile!👋
 - Wordpress Development/Elementor
 - UX Designing with Adobe XD
 
-If you're interested to know what's new I can bring to the table, feel free to reach me via a message on linkedin or on my mail id : astha.mujmer333@gmail.com
+If you're interested to know what's new I can bring to the table, feel free to reach me via a message on Linkedin or on my mail id : astha.mujmer333@gmail.com
