@@ -6,7 +6,7 @@ Welcome to my Github Profile!👋
 - 🌱 I’m looking to collaborate on some good web development projects.
 - 🌱 Technical/Designing Skills :
 - Html/CSS/ Javascript
-- JAVA SE
+- JAVA(SE)
 - My SQL
 - Wordpress Development/Elementor
 - UX Designing with Adobe XD
