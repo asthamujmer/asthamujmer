@@ -4,7 +4,7 @@ Welcome to my Github Profile!👋
 - 🌱 I’m interested in learning and working towards some of the best frontend technologies.
 - 🌱 I’m currently learning React JS.
 - 🌱 I’m looking to collaborate on some good web development projects.
-- 🌱 Technical/Designing Skills:
+- 🌱 Technical Skills:
 - Html/CSS
 - JAVA(SE)
 - SQL
